@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning tecnologias Front-End 
 - 💞️ I’m looking to collaborate on cualquier lugar, estoy en busca de expericia y hambriento de conocimiento.
 - 📫 How to reach me: Josemanuelrosales2@gmail.com
-- Entre otras cosas... Me gusta mucho el deporte, comer bien, conocer nuevas personas e incluso tengo pensado crear una empresa en un futuro! Asi que ¡A seguir aprendiendo!
+- Entre otras cosas... Me gusta mucho el deporte, ejercicio, comer bien, conocer nuevas personas :)
 
 <!---
 Josem1801/Josem1801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
