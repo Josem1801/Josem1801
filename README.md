@@ -5,7 +5,7 @@ My name is Jose and at the moment I am a apasionate of Front-End Tecnologies, ac
 -  🌠 I’m currently learning Next.js
 -  🐍 and Django
 
-**Languages:**  
+**Skills:**  
 
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVB4twv74Kv-OlgnOCa8NuMOP2DvpeK3kQcw&usqp=CAU"></code>
 <code><img height="20" src="https://lenguajecss.com/assets/logo.svg"></code>
