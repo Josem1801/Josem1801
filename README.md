@@ -2,7 +2,7 @@
 
 My name is Jose and at the moment I am a apasionate of Front-End Tecnologies, actually my goal is learn most of tecnologies posible to develoment web applications that will are useful to people.
 
--  🌠 I’m currently learning Typescript
+-  🌠 I’m currently learning Solidity
 
 **Skills:**  
 
