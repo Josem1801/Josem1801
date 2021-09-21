@@ -10,7 +10,6 @@ My name is Jose and at the moment I am a apasionate of Front-End Tecnologies, ac
 <code><img height="20" src="https://lenguajecss.com/assets/logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" style="border-radius: 10px;" src="https://d33wubrfki0l68.cloudfront.net/fa77a6b651d72994550822183394cab8b8d1267e/0a635/images/tech-logos/nextjs_logo.jpg"></code>
 
 **Social Media:**  
 
