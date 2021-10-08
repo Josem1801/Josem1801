@@ -1,6 +1,10 @@
 # Hello, Welcome to my repository on github 👋🙇
 
-My name is Jose and at the moment I am a apasionate of Front-End Tecnologies, actually my goal is learn most of tecnologies posible to develoment web applications that will are useful to people.
+Hey! I'm Jose and I'm a fronted development
+passionate. My goal is to be able to develop
+useful applications that make a positive impact
+in people's life
+
 
 -  🌠 I’m currently learning Solidity
 
