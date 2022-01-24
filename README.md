@@ -6,7 +6,7 @@ useful applications that make a positive impact
 in people's life
 
 
--  🌠 I’m currently learning Solidity
+-  🌠 I’m currently learning GraphQL
 
 **Skills:**  
 
