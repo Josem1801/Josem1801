@@ -5,9 +5,6 @@ passionate. My goal is to be able to develop
 useful applications that make a positive impact
 in people's life
 
-
--  🌠 I’m currently learning GraphQL
-
 **Skills:**  
 
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVB4twv74Kv-OlgnOCa8NuMOP2DvpeK3kQcw&usqp=CAU"></code>
